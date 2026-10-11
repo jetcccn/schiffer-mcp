@@ -1,0 +1,21 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+dist/
+build/
+*.egg-info/
+.DS_Store
+
+# Never commit client work
+*.cosessiondb
+*.cocatalog
+*.cocatalogdb
+*.eip
+*.IIQ
+*.CR3
+*.CR2
+*.NEF
+*.ARW
+*.RAF
+*.DNG
